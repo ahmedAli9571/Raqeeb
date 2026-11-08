@@ -1,0 +1,8 @@
+,value
+free_chlorine_min_mgL,0.2
+free_chlorine_max_mgL,5.0
+turbidity_max_NTU,1.0
+ph_min,6.5
+ph_max,8.5
+ecoli_max_cfu100mL,0.0
+total_coliform_max_cfu100mL,0.0

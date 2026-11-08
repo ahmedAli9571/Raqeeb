@@ -1,0 +1,51 @@
+site_id,governorate,dma_id,site_type,zone,source,base_water_age_h,k20_per_h,c0_mgL,lat,lon
+S001,Muscat,DMA-MUS-01,elevated_tank,urban,blend,23.3,0.0025,1.19,23.6053,58.3721
+S002,Al Batinah North,DMA-AL -01,elevated_tank,rural,desalinated,85.6,0.0052,1.13,24.4061,56.6269
+S003,Al Batinah South,DMA-AL -01,reservoir,urban,blend,21.9,0.0058,0.94,23.8267,57.8615
+S004,Ad Dakhiliyah,DMA-AD -02,reservoir,urban,desalinated,9.0,0.0028,1.07,23.187,57.4812
+S005,Ash Sharqiyah North,DMA-ASH-02,elevated_tank,rural,desalinated,41.4,0.0026,0.99,22.5811,58.6081
+S006,Ash Sharqiyah South,DMA-ASH-02,network_tap,rural,well,48.7,0.0062,1.12,22.584,59.5562
+S007,Ad Dhahirah,DMA-AD -03,reservoir,urban,desalinated,8.2,0.0059,1.07,23.0451,56.4716
+S008,Al Buraimi,DMA-AL -03,elevated_tank,urban,desalinated,10.5,0.0053,0.99,24.0481,55.7498
+S009,Muscat,DMA-MUS-03,elevated_tank,urban,desalinated,14.7,0.0022,0.97,23.693,58.387
+S010,Al Batinah North,DMA-AL -04,reservoir,urban,desalinated,14.2,0.0035,1.06,24.2987,56.749
+S011,Al Batinah South,DMA-AL -04,elevated_tank,urban,blend,11.7,0.0021,0.84,23.5365,57.9384
+S012,Ad Dakhiliyah,DMA-AD -04,elevated_tank,rural,desalinated,71.8,0.0042,0.95,22.8792,57.5204
+S013,Ash Sharqiyah North,DMA-ASH-05,reservoir,rural,desalinated,87.7,0.0065,1.08,22.6346,58.6859
+S014,Ash Sharqiyah South,DMA-ASH-05,network_tap,urban,desalinated,14.0,0.0025,1.16,22.6708,59.3227
+S015,Ad Dhahirah,DMA-AD -05,elevated_tank,rural,desalinated,81.4,0.0058,1.09,23.2479,56.5126
+S016,Al Buraimi,DMA-AL -06,network_tap,urban,desalinated,17.1,0.0022,1.0,24.3502,55.8328
+S017,Muscat,DMA-MUS-06,elevated_tank,rural,desalinated,85.5,0.0049,0.94,23.6662,58.3833
+S018,Al Batinah North,DMA-AL -06,elevated_tank,urban,well,9.8,0.0044,1.0,24.3997,56.6113
+S019,Al Batinah South,DMA-AL -07,reservoir,urban,desalinated,19.5,0.0042,0.81,23.8079,57.8988
+S020,Ad Dakhiliyah,DMA-AD -07,elevated_tank,rural,desalinated,70.3,0.0034,1.06,23.1422,57.5456
+S021,Ash Sharqiyah North,DMA-ASH-07,network_tap,rural,desalinated,32.2,0.0048,0.95,22.5814,58.6306
+S022,Ash Sharqiyah South,DMA-ASH-08,network_tap,rural,desalinated,60.9,0.0033,1.17,22.6235,59.4754
+S023,Ad Dhahirah,DMA-AD -08,network_tap,rural,blend,74.9,0.0065,1.16,23.2543,56.6667
+S024,Al Buraimi,DMA-AL -08,network_tap,urban,desalinated,10.1,0.0057,0.9,24.1031,55.6258
+S025,Muscat,DMA-MUS-09,network_tap,rural,desalinated,40.8,0.005,1.15,23.7586,58.3026
+S026,Al Batinah North,DMA-AL -09,network_tap,urban,desalinated,11.2,0.0021,0.89,24.3609,56.8073
+S027,Al Batinah South,DMA-AL -09,elevated_tank,rural,well,64.9,0.003,1.12,23.7899,57.7208
+S028,Ad Dakhiliyah,DMA-AD -10,reservoir,rural,blend,53.9,0.0035,1.0,22.9946,57.6905
+S029,Ash Sharqiyah North,DMA-ASH-10,network_tap,rural,desalinated,63.3,0.0052,0.84,22.6909,58.5574
+S030,Ash Sharqiyah South,DMA-ASH-10,elevated_tank,urban,blend,25.7,0.0043,1.11,22.6079,59.6747
+S031,Ad Dhahirah,DMA-AD -11,network_tap,urban,desalinated,19.7,0.005,1.15,23.4853,56.4465
+S032,Al Buraimi,DMA-AL -11,elevated_tank,rural,well,82.0,0.0043,0.9,24.0955,55.6584
+S033,Muscat,DMA-MUS-11,reservoir,urban,desalinated,21.1,0.0027,1.13,23.4716,58.3806
+S034,Al Batinah North,DMA-AL -12,reservoir,urban,desalinated,11.4,0.0026,0.81,24.318,56.7579
+S035,Al Batinah South,DMA-AL -12,elevated_tank,rural,well,53.6,0.0036,1.0,23.68,57.7934
+S036,Ad Dakhiliyah,DMA-AD -12,reservoir,rural,desalinated,45.0,0.0049,0.97,22.8384,57.3965
+S037,Ash Sharqiyah North,DMA-ASH-13,reservoir,urban,blend,10.2,0.0062,1.16,22.5467,58.4734
+S038,Ash Sharqiyah South,DMA-ASH-13,network_tap,urban,well,11.0,0.0047,1.01,22.7466,59.222
+S039,Ad Dhahirah,DMA-AD -13,network_tap,rural,desalinated,38.4,0.0044,0.97,23.4273,56.3259
+S040,Al Buraimi,DMA-AL -14,elevated_tank,rural,desalinated,71.1,0.0035,1.18,24.3199,55.9979
+S041,Muscat,DMA-MUS-14,elevated_tank,rural,blend,69.2,0.006,1.01,23.598,58.3263
+S042,Al Batinah North,DMA-AL -14,reservoir,urban,well,26.9,0.0027,1.05,24.4401,56.9485
+S043,Al Batinah South,DMA-AL -15,network_tap,rural,desalinated,87.5,0.006,1.04,23.7565,57.7961
+S044,Ad Dakhiliyah,DMA-AD -15,reservoir,urban,desalinated,10.1,0.0051,0.87,23.0686,57.6031
+S045,Ash Sharqiyah North,DMA-ASH-15,elevated_tank,urban,well,25.6,0.0045,1.04,22.6091,58.6009
+S046,Ash Sharqiyah South,DMA-ASH-16,reservoir,rural,well,55.1,0.0059,1.07,22.6982,59.5579
+S047,Ad Dhahirah,DMA-AD -16,reservoir,urban,desalinated,14.9,0.0028,0.86,23.34,56.383
+S048,Al Buraimi,DMA-AL -16,network_tap,rural,desalinated,86.2,0.0059,0.99,24.2514,55.9495
+S049,Muscat,DMA-MUS-17,network_tap,urban,desalinated,26.7,0.0052,0.85,23.7825,58.3551
+S050,Al Batinah North,DMA-AL -17,elevated_tank,rural,blend,47.7,0.0043,0.98,24.4028,56.7929
